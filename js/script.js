@@ -43,7 +43,7 @@ const teamConfig = {
         {
             id: 6,
             name: "林志軒",
-            description: "自我介紹",
+            description: "0000",
             image: "images/member6.jpg",
             website: ""
         }
